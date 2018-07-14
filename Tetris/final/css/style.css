@@ -1,0 +1,260 @@
+@import url(https://fonts.googleapis.com/css?family=Bevan);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+
+body{
+	background: #3f3f3f;
+	margin:0;
+	padding:0;
+	position: relative;
+	font-family: 'American Typewriter','Marker Felt';
+	min-width:600px;
+}
+
+#title {
+	float: left;
+	margin-left: 5%;
+}
+
+/* title */
+h1 {
+  font-family: "Bevan";
+  font-size: 120px;
+  font-weight: 200;
+  line-height: 200px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  width: 260px;
+  margin: 75px auto 0;
+  text-shadow:
+    0px 0px 0 #ffe100,-1px 1px 0 #ffe100,-2px 2px 0 #ffe100,-3px 3px 0 #ffe100,-4px 4px 0 #ffe100,-5px 5px 0 #ffe100,-6px 6px 0 #ffe100,-7px 7px 0 #ffe100,-8px 8px 0 #ffe100,-9px 9px 0 #ffe100,-10px 10px 0 #ffe100,-11px 11px 0 #ffe100,-12px 12px 0 #ffe100,-13px 13px 0 #ffe100,-14px 14px 0 #ffe100,-15px 15px 0 #ffe100,-16px 16px 0 #ffe100,-17px 17px 0 #ffe100,-18px 18px 0 #ffe100,-19px 19px 0 #ffe100, -20px 20px 0 #ffe100;
+}
+h1 span {
+	position: relative;
+}
+h1 span:first-child {
+  z-index: 15;
+	text-shadow:0px 0px 0 #66bc29,-1px 1px 0 #66bc29,-2px 2px 0 #66bc29,-3px 3px 0 #66bc29,-4px 4px 0 #66bc29,-5px 5px 0 #66bc29,-6px 6px 0 #66bc29,-7px 7px 0 #66bc29,-8px 8px 0 #66bc29,-9px 9px 0 #66bc29,-10px 10px 0 #66bc29,-11px 11px 0 #66bc29,-12px 12px 0 #66bc29,-13px 13px 0 #66bc29,-14px 14px 0 #66bc29,-15px 15px 0 #66bc29,-16px 16px 0 #66bc29,-17px 17px 0 #66bc29,-18px 18px 0 #66bc29,-19px 19px 0 #66bc29, -20px 20px 0 #66bc29;
+}
+h1 span:nth-child(2) {
+  z-index: 14;
+  text-shadow:0px 0px 0 #00af9d,-1px 1px 0 #00af9d,-2px 2px 0 #00af9d,-3px 3px 0 #00af9d,-4px 4px 0 #00af9d,-5px 5px 0 #00af9d,-6px 6px 0 #00af9d,-7px 7px 0 #00af9d,-8px 8px 0 #00af9d,-9px 9px 0 #00af9d,-10px 10px 0 #00af9d,-11px 11px 0 #00af9d,-12px 12px 0 #00af9d,-13px 13px 0 #00af9d,-14px 14px 0 #00af9d,-15px 15px 0 #00af9d,-16px 16px 0 #00af9d,-17px 17px 0 #00af9d,-18px 18px 0 #00af9d,-19px 19px 0 #00af9d, -20px 20px 0 #00af9d;
+}
+h1 span:nth-child(3) {
+  z-index: 19;
+  text-shadow:0px 0px 0 #ffb652,-1px 1px 0 #ffb652,-2px 2px 0 #ffb652,-3px 3px 0 #ffb652,-4px 4px 0 #ffb652,-5px 5px 0 #ffb652,-6px 6px 0 #ffb652,-7px 7px 0 #ffb652,-8px 8px 0 #ffb652,-9px 9px 0 #ffb652,-10px 10px 0 #ffb652,-11px 11px 0 #ffb652,-12px 12px 0 #ffb652,-13px 13px 0 r#ffb652,-14px 14px 0 #ffb652,-15px 15px 0 #ffb652,-16px 16px 0 #ffb652,-17px 17px 0 #ffb652,-18px 18px 0 #ffb652,-19px 19px 0 #ffb652, -20px 20px 0 #ffb652;
+}
+h1 span:nth-child(4) {
+  z-index: 18;
+  text-shadow:0px 0px 0 #cd66cc,-1px 1px 0 #cd66cc,-2px 2px 0 #cd66cc,-3px 3px 0 #cd66cc,-4px 4px 0 #cd66cc,-5px 5px 0 #cd66cc,-6px 6px 0 #cd66cc,-7px 7px 0 #cd66cc,-8px 8px 0 #cd66cc,-9px 9px 0 #cd66cc,-10px 10px 0 #cd66cc,-11px 11px 0 #cd66cc,-12px 12px 0 #cd66cc,-13px 13px 0 #cd66cc,-14px 14px 0 #cd66cc,-15px 15px 0 #cd66cc,-16px 16px 0 #cd66cc,-17px 17px 0 #cd66cc,-18px 18px 0 #cd66cc,-19px 19px 0 #cd66cc, -20px 20px 0 #cd66cc;
+}
+h1 span:nth-child(5) {
+  z-index: 18;
+  text-shadow:0px 0px 0 #0096db,-1px 1px 0 #0096db,-2px 2px 0 #0096db,-3px 3px 0 #0096db,-4px 4px 0 #0096db,-5px 5px 0 #0096db,-6px 6px 0 #0096db,-7px 7px 0 #0096db,-8px 8px 0 #0096db,-9px 9px 0 #0096db,-10px 10px 0 #0096db,-11px 11px 0 #0096db,-12px 12px 0 #0096db,-13px 13px 0 #0096db,-14px 14px 0 #0096db,-15px 15px 0 #0096db,-16px 16px 0 #0096db,-17px 17px 0 #0096db,-18px 18px 0 #0096db,-19px 19px 0 #0096db, -20px 20px 0 #0096db;
+}
+h1 span:nth-child(6) {
+  z-index: 18;
+  text-shadow:0px 0px 0 #3a7dda,-1px 1px 0 #3a7dda,-2px 2px 0 #3a7dda,-3px 3px 0 #3a7dda,-4px 4px 0 #3a7dda,-5px 5px 0 #3a7dda,-6px 6px 0 #3a7dda,-7px 7px 0 #3a7dda,-8px 8px 0 #3a7dda,-9px 9px 0 #3a7dda,-10px 10px 0 #3a7dda,-11px 11px 0 #3a7dda,-12px 12px 0 #3a7dda,-13px 13px 0 #3a7dda,-14px 14px 0 #3a7dda,-15px 15px 0 #3a7dda,-16px 16px 0 #3a7dda,-17px 17px 0 #3a7dda,-18px 18px 0 #3a7dda,-19px 19px 0 #3a7dda, -20px 20px 0 #3a7dda;
+}
+#t {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 14px;
+  -ms-transform: rotate(25deg);
+  -moz-transform: rotate(25deg);
+  -o-transform: rotate(45deg);
+  -webkit-transform: rotate(25deg);
+  transform: rotate(25deg);
+}
+#i {
+  padding-left: 2px;
+}
+#instruction {
+	float: left;
+	margin-top: 300px;
+	margin-left: -200px;
+}
+p {
+  font-family: "Roboto Condensed";
+  font-size: 23px;
+  text-transform: uppercase;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: -8px;
+	color: #fff;
+	list-style-type: square;
+}
+
+li{
+	font-family: "Roboto Condensed";
+	color: #fff;
+	font-size: 20px;
+}
+
+/* container */
+#container{
+	position: absolute;
+	background: #555;
+	margin-top: 100px;
+	margin-left: 58%;
+	overflow-y: hidden;
+	transform: scale(1.3);
+}
+
+.square {
+	margin: auto;
+}
+
+.title {
+	font-size: 30px;
+	margin: 20px auto;
+}
+
+.game {
+	width: 200px;
+	height: 400px;
+	position: relative;
+	float: left;
+}
+
+.next {
+	width: 80px;
+	height: 80px;
+	position: relative;
+	float: left;
+	margin: 40px;
+}
+
+
+.none, .current1, .current2, .current3, .current4, .current5, .current6, .current7, .done {
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	box-sizing: border-box;
+}
+
+.none {
+	border: 0.3px solid white;
+	background-color: #c0c0c0;
+}
+
+.current1 {
+	background-color: #FF0000;
+	border: 1px solid white;
+}
+
+.current2 {
+	background-color: #ffb652;
+	border: 1px solid white;
+}
+
+.current3 {
+	background-color: #cd66cc;
+	border: 1px solid white;
+}
+
+.current4 {
+	background-color: #66bc29;
+	border: 1px solid white;
+}
+
+.current5 {
+	background-color: #0096db;
+	border: 1px solid white;
+}
+
+.current6 {
+	background-color: #ffe100;
+	border: 1px solid white;
+}
+
+.current7 {
+	background-color: #3a7dda;
+	border: 1px solid white;
+}
+
+.done {
+	border: 1px solid white;
+	background-color: #BC8F8F;
+}
+
+#side{
+	height:100%;
+	position: absolute;
+	top:0;
+	right:0;
+	text-align: center;
+	margin-top:180px;
+}
+
+#info{
+	width:120px;
+}
+
+#scoreInfo, #timeInfo{
+	color:#fff;
+	font-size: 18px;
+	margin-left: -50px;
+}
+
+#local_score, #local_time{
+	color:orange;
+	font-family: 'Chalkboard SE';
+}
+
+#gameOver{
+	height:100%;
+	position: absolute;
+	background:rgba(0,0,0,.75);
+	z-index:999;
+	color:#ffe100;
+	text-align: center;
+	display: none;
+}
+
+#gameOver h1{
+	margin-top:50%;
+}
+
+#gameOver a,#gameOver a:visited{
+	color:#66bc29;
+	text-decoration: none;
+}
+
+#gameOver h3{
+	color:orange;
+}
+
+@media(max-width: 1100px) {
+	#container{
+		margin-left: 15%;
+	}
+	#title {
+		display: none;
+	}
+	#instruction {
+		float: right;
+	}
+}
+
+@media(max-width: 950px) {
+	#container{
+		margin-left: 30%;
+	}
+	#instruction {
+		display: none;
+	}
+}
+
+@media(max-width: 600px) {
+	#container{
+		margin-left: 20%;
+	}
+}
+
+@media(max-width: 500px) {
+	#container{
+		margin-left: 10%;
+	}
+}
